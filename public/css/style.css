@@ -163,3 +163,9 @@ img {
     width: 250px;
     border-radius: 5px;
 }
+
+.bot-container {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
